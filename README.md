@@ -1,6 +1,6 @@
 # BookIt Dashboard
 
-![](images/bookit-dashboard-2.gif)
+![](images/dashboard.gif)
 
 
 ## Description
