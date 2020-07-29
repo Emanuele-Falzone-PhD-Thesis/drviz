@@ -49,7 +49,7 @@ In our data, we have two measurements: *live_tracking* and *schedule*.
 	- the *courier* tag represents the courier id;
 	- the *location* tag represents the name of the location where the courier must deliver the parcel;
 	- the *weight* field is the weight in cm of the parcel to be delivered;
-	- the *volume* field is the volume in $cm^3$ of the parcel to be delivered;
+	- the *volume* field is the volume in cm<sup>3</sup> of the parcel to be delivered;
 	- the *width* field is the width in cm of the parcel to be delivered;
 	- the *height* field is the height in cm of the parcel to be delivered;
 	- the *length* field is the length in cm of the parcel to be delivered;
