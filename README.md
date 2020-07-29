@@ -1,6 +1,6 @@
 # BookIt Dashboard
 
-![](images/bookit-dashboard-2.mov)
+![](images/bookit-dashboard-2.mp4)
 
 
 ## Description
