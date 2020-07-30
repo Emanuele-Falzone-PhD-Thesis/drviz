@@ -1,4 +1,4 @@
-# BookIt Dashboard
+# BookIT Dashboard
 
 ![](images/dashboard.gif)
 
