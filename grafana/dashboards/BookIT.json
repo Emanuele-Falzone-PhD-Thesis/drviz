@@ -231,7 +231,7 @@
       "gridPos": {
         "h": 10,
         "w": 4,
-        "x": 14,
+        "x": 15,
         "y": 0
       },
       "id": 8,
@@ -351,7 +351,7 @@
       "gridPos": {
         "h": 5,
         "w": 2,
-        "x": 18,
+        "x": 19,
         "y": 0
       },
       "id": 11,
@@ -397,7 +397,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "# Percels Scheduled",
+      "title": "#Scheduled",
       "type": "stat"
     },
     {
@@ -421,7 +421,7 @@
       "gridPos": {
         "h": 5,
         "w": 2,
-        "x": 18,
+        "x": 19,
         "y": 5
       },
       "id": 10,
@@ -473,7 +473,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "# Percels Delivered",
+      "title": "#Delivered",
       "type": "stat"
     },
     {
@@ -728,7 +728,7 @@
       "geoIdTag": "location",
       "gridPos": {
         "h": 14,
-        "w": 10,
+        "w": 12,
         "x": 12,
         "y": 10
       },
@@ -816,7 +816,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Localization Map",
+      "title": "Delay Map",
       "transformations": [],
       "type": "citilogics-geoloop-panel",
       "userInteractionEnabled": true
@@ -1032,9 +1032,9 @@
         "overrides": []
       },
       "gridPos": {
-        "h": 4,
+        "h": 1,
         "w": 5,
-        "x": 12,
+        "x": 16,
         "y": 24
       },
       "id": 4,
